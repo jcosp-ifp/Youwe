@@ -36,6 +36,7 @@ h1 {
     background-image: url("img/");
     background-size: auto 80%;
     background-repeat: no-repeat;
+    background-color: #19D3C5;
 }
 
 #content {
@@ -80,6 +81,6 @@ h1 {
     left: 0;
     right:0;
     z-index:1000;
+    background-color: #19D3C5;
 
 }
- 
